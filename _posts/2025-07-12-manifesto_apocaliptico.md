@@ -4,7 +4,6 @@ title:  "Manifesto Apocalíptico"
 date:   2025-07-12 00:00:00 -0300
 categories: jekyll update
 ---
-# Manifesto Apocalíptico
 Há uma responsabilidade ancestral sobre os ombros daquele que fica no posto de
 vigia. O atalaia, no alto do mastro balançante do navio ou sobre as muralhas da
 cidade, não está ali para gozar da vista. Sua tarefa é uma só: interpretar as
@@ -25,19 +24,19 @@ quânticas, projetadas para serem inquebráveis. Somos gratos a eles. Essa
 batalha, ao que parece, estamos vencendo antes mesmo que ela comece de
 verdade.
 Mas mal tivemos tempo de respirar aliviados, e uma onda muito maior começou a
-se formar.Pessoal3
+se formar.
 ### A Segunda Trombeta: As Três Ondas da Inteligência Artificial
 Estamos vivendo a primeira de três fases da Inteligência Artificial.
-A Primeira Onda IA Estreita): É a que temos hoje. Uma ferramenta poderosa, um
+A Primeira Onda - **IA Estreita:** É a que temos hoje. Uma ferramenta poderosa, um
 gênio especialista. Ela compõe músicas, cria imagens, traduz textos e nos vence
 no xadrez. Mas ela não pensa. Ela calcula em uma escala que não podemos
 compreender.
-A Segunda Onda IA Geral  AGI Esta é a linha na areia. É o momento em que a
+A Segunda Onda IA Geral - AGI Esta é a linha na areia. É o momento em que a
 IA alcançará a mesma inteligência que nós. A capacidade de aprender qualquer
 tarefa intelectual que um humano pode, de raciocinar, de abstrair. As previsões
 divergem drasticamente. Alguns dos maiores especialistas do mundo falam em 20
 anos; outros, mais ousados, cravam que veremos isso antes de 2030.
-A Terceira Onda Superinteligência  ASI É aqui que acontece "o pulinho da
+A Terceira Onda **Superinteligência - ASI** É aqui que acontece "o pulinho da
 onça". A partir do momento em que uma AGI for criada, ela poderá projetar a
 próxima geração de IAs. E essa próxima geração criará outra, ainda melhor, em
 um ciclo de autoaperfeiçoamento exponencial. Em um piscar de olhos cósmico, a
