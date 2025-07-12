@@ -4,7 +4,6 @@ title:  "Manifesto Apocalíptico"
 date:   2025-07-12 00:00:00 -0300
 categories: jekyll update
 ---
-# Manifesto Apocalíptico
 Há uma responsabilidade ancestral sobre os ombros daquele que fica no posto de
 vigia. O atalaia, no alto do mastro balançante do navio ou sobre as muralhas da
 cidade, não está ali para gozar da vista. Sua tarefa é uma só: interpretar as
