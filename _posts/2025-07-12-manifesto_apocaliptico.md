@@ -12,7 +12,7 @@ A boa notícia? O atalaia tocou a trombeta a tempo. Mentes brilhantes, cientista
 ### A Segunda Trombeta: As Três Ondas da Inteligência Artificial
 Estamos vivendo a primeira de três fases da Inteligência Artificial.
 A Primeira Onda - **IA Estreita:** É a que temos hoje. Uma ferramenta poderosa, um gênio especialista. Ela compõe músicas, cria imagens, traduz textos e nos vence no xadrez. Mas ela não pensa. Ela calcula em uma escala que não podemos compreender.
-A Segunda Onda IA Geral - AGI Esta é a linha na areia. É o momento em que a IA alcançará a mesma inteligência que nós. A capacidade de aprender qualquer tarefa intelectual que um humano pode, de raciocinar, de abstrair. As previsões divergem drasticamente. Alguns dos maiores especialistas do mundo falam em 20
+A Segunda Onda - **IA Geral - AGI.** Esta é a linha na areia. É o momento em que a IA alcançará a mesma inteligência que nós. A capacidade de aprender qualquer tarefa intelectual que um humano pode, de raciocinar, de abstrair. As previsões divergem drasticamente. Alguns dos maiores especialistas do mundo falam em 20
 anos; outros, mais ousados, cravam que veremos isso antes de 2030.
 A Terceira Onda **Superinteligência - ASI** É aqui que acontece "o pulinho da onça". A partir do momento em que uma AGI for criada, ela poderá projetar a próxima geração de IAs. E essa próxima geração criará outra, ainda melhor, em um ciclo de autoaperfeiçoamento exponencial. Em um piscar de olhos cósmico, a
 inteligência artificial se tornará para nós o que nós somos para uma formiga. Uma força incompreensivelmente mais poderosa.
