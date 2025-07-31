@@ -24,6 +24,10 @@ categories: jekyll update
 
 ---
 
+[Veja uma versão modo escuro desta página]({{'pages/maloqueiro-fantasma.html' | relative_url }})
+
+---
+
 Tudo começou quando saí para tomar um ar, como faço sempre. Fui até a pracinha na esquina, um lugar onde costumo sentar por um momento. Foi lá que um segurança me abordou, me agrediu, apontou uma arma e me forçou a deitar no chão. Isso tudo depois de já ter me revistado. Eu estava sentado num banco quando ele se afastou da moto e veio na minha direção.
 
 ![Imagem conceitual de uma rua escura com um banco e uma figura solitária.]({{'assets/images/posts/2025-07-30-maloqueiro_fantasma/praca.png' | relative_url }})
@@ -79,3 +83,8 @@ E a escala dessa injustiça é global. Segundo a [ONU, cerca de 673 milhões de 
 Agora, enfrentamos um novo ponto de inflexão com a Inteligência Artificial. Uma ferramenta poderosa, mas perigosa nas mãos de uma natureza humana controversa. A automação de empregos é inevitável, e sem políticas públicas de redução de danos, o abismo social só vai aumentar. Ninguém deveria ficar para trás. Como me disse meu amigo russo, o código de honra é claro: ninguém fica para trás. Não é ético. Não é humano.
 
 > "Os antigos pecados não foram extintos, mas estão acocorados nos cantos da natureza humana, ainda ali, e ainda tão medonhos
+
+<video width="100%" controls>
+  <source src="{{'assets/videos/posts/2025-07-30-maloqueiro_fantasma/An_Incident_on_the_Corner__A_Story_of_Dignity.mp4' | relative_url }}" type="video/mp4">
+  O seu navegador não suporta a tag de vídeo.
+</video>
